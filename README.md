@@ -26,5 +26,15 @@
 - ポートフォリオ: https://olaf0321-portfolio-vsra.vercel.app/  
 - Email: daikifujimoto344@gmail.com
 
+<!-- フル幅で1枚 -->
+<p align="center">
+  <img src="https://olaf0321-portfolio-vsra.vercel.app/assets/images/paiza/1.png" alt="メイン画像" width="100%" />
+</p>
+
+<!-- 下に2枚を横並び -->
+<p align="center">
+  <img src="https://olaf0321-portfolio-vsra.vercel.app/assets/images/paiza/2.png" alt="サブ画像1" width="49%" />
+  <img src="https://olaf0321-portfolio-vsra.vercel.app/assets/images/paiza/3.png" alt="サブ画像2" width="49%" />
+</p>
 ---
 ⭐️ *「アイデアをかたちにし、使いやすいサービスを届ける」*

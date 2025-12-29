@@ -24,6 +24,7 @@
 
 ### 📫 ご連絡はこちら
 - ポートフォリオ: https://olaf0321-portfolio-vsra.vercel.app/
+- Email: f14974179@gmail.com
 
 <!-- フル幅で1枚 -->
 <p align="center">

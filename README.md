@@ -23,8 +23,7 @@
 - **ユーザーフレンドリーで高性能なサービス** の構築  
 
 ### 📫 ご連絡はこちら
-- ポートフォリオ: https://olaf0321-portfolio-vsra.vercel.app/  
-- Email: daikifujimoto344@gmail.com
+- ポートフォリオ: https://olaf0321-portfolio-vsra.vercel.app/
 
 <!-- フル幅で1枚 -->
 <p align="center">
